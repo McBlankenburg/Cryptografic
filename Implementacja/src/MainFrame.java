@@ -39,7 +39,7 @@ public class MainFrame extends JFrame
         this.getContentPane().add(otpFrame);
         mainPanel.setVisible(false);
         otpFrame.setPreferredSize(mainPanel.getPreferredSize());
-        this.setSize(1000,300);
+        this.setSize(1000,600);
     }
 
     private void elGamalAction()
